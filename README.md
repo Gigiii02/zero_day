@@ -1,1 +1,1 @@
-echo "*Emphasize*" > README.md
+echo '*Emphasize*' > README.md
